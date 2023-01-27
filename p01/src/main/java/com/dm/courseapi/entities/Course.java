@@ -2,17 +2,20 @@ package com.dm.courseapi.entities;
 
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+import javax.persistence.Column;
 
 //import lombok.Data;
 
 import javax.persistence.Entity;
 
 //@Data
+@Table(name = "Course")
 @Entity
 public class Course {
 	
 	@Id
-	private String id ;
+	private String id ;	
 	private String name ;
 	private Integer price ;
 	

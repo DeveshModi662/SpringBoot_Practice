@@ -11,6 +11,6 @@ public interface CourseServiceClass {
 	public CourseDto findCourse(String id) ;
 	public void addCourse(String topicId, CourseDto toAdd) ;
 	public void updateCourse(String topicId, CourseDto newCourse) ;
-	public void deleteCourse(String id) ;
+	public void deleteCourse(String id) ; 
 	
 }
