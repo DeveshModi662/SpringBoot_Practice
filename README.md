@@ -1,15 +1,16 @@
 # SpringBoot_Practice
 
-Annotations__
-@SpringBootApplication__
-@RestController__
-@Component__
-@Autowired__
-@GetMapping__
-@PostMapping__
-@PutMapping__
-@DeleteMapping__
-@Table__
-@Entity__
-@Id__
-@ManyToOne__
+###**Annotations** <br />
+--- <br />
+@SpringBootApplication <br />
+@RestController <br />
+@Component <br />
+@Autowired <br />
+@GetMapping <br />
+@PostMapping <br />
+@PutMapping <br />
+@DeleteMapping <br />
+@Table <br />
+@Entity <br />
+@Id <br />
+@ManyToOne <br />
