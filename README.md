@@ -1,8 +1,7 @@
 # SpringBoot_Practice
-
+______
 ### **Annotations** <br /> 
-_______
-
+___
 @SpringBootApplication <br />
 @RestController <br />
 @Component <br />
